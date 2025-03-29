@@ -1,0 +1,57 @@
+{
+  "title": "Você seria um herói ou vilão?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Se você pudesse escolher um poder para derrotar o mal, qual seria a sua escolha?",
+      "options": [
+        {"id": 1, "name": "Controle mental", "alias": "A"},
+        {"id": 2, "name": "Super força", "alias": "B"},
+        {"id": 3, "name": "Criar ilusão", "alias": "A"},
+        {"id": 4, "name": "Invulnerabilidade", "alias": "B"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lidaria com uma ameaça que ameaça destruir a sua cidade?",
+      "options": [
+        {"id": 1, "name": "Eu usaria meus poderes para confrontar e derrotar o inimigo", "alias": "A"},
+        {"id": 2, "name": "Eu tentaria conversar com a ameaça e encontrar uma solução pacífica", "alias": "B"},
+        {"id": 3, "name": "Eu procuraria outras formas de evitar que a cidade fosse destruída sem usar força", "alias": "B"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "O que te motivaria a lutar contra o crime?",
+      "options": [
+        {"id": 1, "name": "Vingança pessoal contra aqueles que me prejudicaram", "alias": "A"},
+        {"id": 2, "name": "Proteger os inocentes e a justiça", "alias": "B"},
+        {"id": 3, "name": "Ganhar reconhecimento e poder", "alias": "A"},
+        {"id": 4, "name": "A sensação de fazer o bem e manter a ordem", "alias": "B"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Se você tivesse que escolher entre salvar um amigo ou salvar uma cidade inteira, qual seria sua escolha?",
+      "options": [
+        {"id": 1, "name": "Salvar o amigo, ele é a pessoa mais importante para mim", "alias": "A"},
+        {"id": 2, "name": "Salvar a cidade, o bem coletivo é mais importante", "alias": "B"},
+        {"id": 3, "name": "Tentaria salvar ambos, mesmo que isso fosse um risco", "alias": "B"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual seria o seu lema como herói ou vilão?",
+      "options": [
+        {"id": 1, "name": "O fim justifica os meios", "alias": "A"},
+        {"id": 2, "name": "Com grandes poderes vêm grandes responsabilidades", "alias": "B"},
+        {"id": 3, "name": "O poder deve ser usado para dominar, não para salvar", "alias": "A"},
+        {"id": 4, "name": "Proteger e servir ao povo, sem exceção", "alias": "B"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você muito provavelmente seria um super vilão!",
+    "B": "Você muito provavelmente seria um super herói!"
+  }
+}
